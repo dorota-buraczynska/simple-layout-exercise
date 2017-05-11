@@ -28,6 +28,7 @@ body {
 .container {
     width: 800px;
     margin: 0 auto;
+    border: 1px solid red;
 }
 
 /*header*/
@@ -106,7 +107,7 @@ header {
     padding: 10px 20px;
     border-radius: 20px;
     text-transform: uppercase;
-    font-weight: bold;
+    font-weight: bold;class
     box-shadow: 2px 2px 2px lightgrey;
     cursor: pointer;
 }
@@ -182,5 +183,12 @@ header {
     height: 100px;
 }
 
+/*summary*/
+
+
+/*footer*/
+footer {
+    width: 100%;
+}
 
 
