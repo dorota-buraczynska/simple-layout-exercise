@@ -116,7 +116,7 @@ header {
     box-shadow: 4px 4px 5px lightgrey;
 }
 
-/*images*/
+/*products*/
 .products {
     text-align: center;
 }
@@ -127,7 +127,7 @@ header {
     margin-bottom: 30px;
 }
 
-.box {
+.medium-box {
     width: 30%;
     display: inline-block;
     margin-left: 15px;
@@ -138,6 +138,12 @@ header {
     background-color: #d7f5d7;
 }
 
+/*about-company*/
+.box {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
 
 
 
