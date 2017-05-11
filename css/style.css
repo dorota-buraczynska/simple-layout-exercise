@@ -139,10 +139,31 @@ header {
 }
 
 /*about-company*/
+.about-company {
+    margin-top: 30px;
+}
+
 .box {
     display: inline-block;
     width: 49%;
     vertical-align: top;
+}
+
+.box h3 {
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.box p {
+    padding-top: 30px;
+    text-align: left;
+}
+
+.box span {
+    display: block;
 }
 
 
